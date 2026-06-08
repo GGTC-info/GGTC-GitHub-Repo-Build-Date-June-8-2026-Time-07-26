@@ -43,3 +43,28 @@ GGTC-JELLYFISH-BIRTHDAY-LOG/
     ├── new jellyfish art drafts.md
     └──drive by art
 .md
+
+# GGTC Jellyfish Birthday Log
+
+Official GGTC.info visual-log repository for the June 8, 2026 jellyfish birthday entry.
+
+## Entry
+
+Date: June 8, 2026  
+Time: 07:26  
+Type: GitHub Repository Build  
+Status: Active Structure
+
+## Core Visual
+
+Happy Birthday Jellyfish 146  
+GGTC.info bottom marker  
+June 8, 2026 timestamp
+
+## Purpose
+
+This repository stores visual entries, continuity logs, asset records, and GGTC-themed symbolic documentation.
+
+## Status
+
+ACTIVE
