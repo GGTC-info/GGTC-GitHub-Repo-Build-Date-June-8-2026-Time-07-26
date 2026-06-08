@@ -40,5 +40,6 @@ GGTC-JELLYFISH-BIRTHDAY-LOG/
 │   └── timeline.md
 │
 └── ARCHIVE/
-    ├── prior-drafts.md
-    └── retired-assets.md
+    ├── new jellyfish art drafts.md
+    └──drive by art
+.md
